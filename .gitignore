@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+library/pdbqt/
+library/poses_exh8/
+redock/
