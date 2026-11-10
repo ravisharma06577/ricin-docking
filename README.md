@@ -7,7 +7,6 @@ ricin toxin A-chain (RTA) active site using AutoDock Vina.
 Ravi Sharma  
 Department of Pharmaceutical Sciences  
 Maharshi Dayanand University, Rohtak, Haryana-124001, India  
-ravisharma06577@gmail.com  
 ORCID: 0009-0003-7239-9989
 
 ## Contents
